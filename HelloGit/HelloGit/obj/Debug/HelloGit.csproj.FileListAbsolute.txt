@@ -1,0 +1,5 @@
+E:\Work\GitHub\RWE\HelloGit\HelloGit\bin\HelloGit.dll
+E:\Work\GitHub\RWE\HelloGit\HelloGit\bin\HelloGit.pdb
+E:\Work\GitHub\RWE\HelloGit\HelloGit\obj\Debug\HelloGit.csprojResolveAssemblyReference.cache
+E:\Work\GitHub\RWE\HelloGit\HelloGit\obj\Debug\HelloGit.dll
+E:\Work\GitHub\RWE\HelloGit\HelloGit\obj\Debug\HelloGit.pdb
